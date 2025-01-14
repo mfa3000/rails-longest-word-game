@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+.letters {
+  background-color: darkblue;
+  color: white;
+  letter-spacing: 20px;
+}
